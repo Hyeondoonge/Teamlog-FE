@@ -10,7 +10,7 @@ npm start
 ```
 
 ## Technologies
-### - product
+### - deploy
 Netlify, PWA
 
 ### - framework
